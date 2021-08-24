@@ -1,0 +1,5 @@
+grant {
+  // needed because of the hot reload functionality
+  permission java.net.SocketPermission "hzzzlc.tpddns.cn:13306", "connect,resolve";
+  permission java.lang.RuntimePermission "setContextClassLoader";
+};
