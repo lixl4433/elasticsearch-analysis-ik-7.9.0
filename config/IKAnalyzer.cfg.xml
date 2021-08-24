@@ -3,11 +3,11 @@
 <properties>
 	<comment>IK Analyzer 扩展配置</comment>
         <!--用户可以在这里配置自己的扩展字典 -->
-        <entry key="ext_dict">he_dian.dic</entry>
+        <entry key="ext_dict">xxxx.dic</entry>
          <!--用户可以在这里配置自己的扩展停止词字典-->
         <entry key="ext_stopwords">extra_stopword.dic</entry>
         <!--用户可以在这里配置远程扩展字典 -->
-        <entry key="remote_ext_dict">http://192.168.0.208:8080/elasticsearch-mysql-terms/mysql_terms.dic</entry>
+        <entry key="remote_ext_dict">http://xxxxxx:8080/elasticsearch-mysql-terms/mysql_terms.dic</entry>
         <!--用户可以在这里配置远程扩展停止词字典-->
-        <entry key="remote_ext_stopwords">http://192.168.0.208:8080/elasticsearch-mysql-terms/mysql_stop_words.dic</entry>
+        <entry key="remote_ext_stopwords">http://xxxxxx:8080/elasticsearch-mysql-terms/mysql_stop_words.dic</entry>
 </properties>

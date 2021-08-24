@@ -1,6 +1,6 @@
 jdbc:
-  url: jdbc:mysql://hzzzlc.tpddns.cn:13306/fqdoc?useUnicode=true&characterEncoding=utf8&rewriteBatchedStatements=true&useSSL=false&nullCatalogMeansCurrent=true
-  user: passis
-  password : Zzlc_1qaz789
-  keywordSql: SELECT t.term as keyword FROM `zzlc$repo_term` t
-  stopWordSql: SELECT t.word as stopWord FROM `zzlc$stop_term` t
+  url: jdbc:mysql://xxxxx:13306/fqdoc?useUnicode=true&characterEncoding=utf8&rewriteBatchedStatements=true&useSSL=false&nullCatalogMeansCurrent=true
+  user: xxxx
+  password : xxxx
+  keywordSql: 
+  stopWordSql: 
